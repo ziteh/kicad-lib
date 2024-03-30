@@ -1,6 +1,6 @@
 # KiCAD Lib
 
-My KiCAD symbol and footprint libraries
+My KiCAD symbol and footprint libraries.
 
 ## Disclaimer & License
 
