@@ -1,6 +1,12 @@
-# KiCAD Lib
+# KiCAD Libraries
 
-My KiCAD symbol and footprint libraries.
+My [KiCAD](https://www.kicad.org/) symbol and footprint libraries.
+
+You can include this repo as a [git submodule](https://git-scm.com/docs/git-submodule) via
+
+```bast
+git submodule add https://github.com/ziteh/kicad-lib.git ziteh-lib
+```
 
 ## Disclaimer & License
 
