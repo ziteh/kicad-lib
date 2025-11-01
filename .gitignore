@@ -1,0 +1,8 @@
+# FreeCAD
+*.FCStd1
+*.FCStd~
+*.FCBak
+
+# OS
+.DS_Store
+Thumbs.db
