@@ -20,6 +20,10 @@ You can preview the 3D model online by pasting the file URL into [Online 3D View
 | SK19_G2                             | Switch 1P2T 3pin SMD, 9.1x3.5x3.2mm |
 | USB_Type-C_12pin_HRO_TYPE-C-31-M-12 | USB Type-C Receptacle USB2.0 12pin  |
 
+## TODO
+
+- [ ]: Pending merging of `ErgoSNM_Keyboard_Library` into `ZiTe_Lib`
+
 ## Disclaimer & License
 
 These files are provided **AS IS**, without warranty of any kind.  
