@@ -8,6 +8,14 @@ You can include this repo as a [git submodule](https://git-scm.com/docs/git-subm
 git submodule add https://github.com/ziteh/kicad-lib.git ziteh_kicad_lib
 ```
 
+## List
+
+### 3D Models
+
+| Name       | Desc                     |
+| :--------- | :----------------------- |
+| PJ-393_8PJ | 3.5mm TRRS jack 8pin SMD |
+
 ## Disclaimer & License
 
 These files are provided **AS IS**, without warranty of any kind.  
