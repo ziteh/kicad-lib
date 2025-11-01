@@ -1,6 +1,6 @@
 # KiCad Libraries
 
-My [KiCad](https://www.kicad.org/) symbol,  footprint and 3D model libraries.
+My [KiCad](https://www.kicad.org/)/[FreeCAD](https://www.freecad.org/) symbol, footprint and 3D model libraries.
 
 You can include this repo as a [git submodule](https://git-scm.com/docs/git-submodule) via
 
